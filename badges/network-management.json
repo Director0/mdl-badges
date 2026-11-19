@@ -1,0 +1,13 @@
+{
+  "@context": "https://w3id.org/openbadges/v2",
+  "type": "BadgeClass",
+  "id": "https://director0.github.io/mdl-badges/badges/network-management.json",
+  "name": "Администратор сети",
+  "description": "Умеет проектировать, настраивать и поддерживать компьютерную сеть: адресация, маршрутизация, коммутация и базовая защита.",
+  "image": "https://director0.github.io/mdl-badges/images/network-management.png",
+  "criteria": {
+    "narrative": "Спланирована IP-адресация с разбиением на подсети, настроены коммутатор с VLAN и маршрутизатор, проверена связность между сегментами и настроены правила межсетевого экрана."
+  },
+  "issuer": "https://director0.github.io/mdl-badges/issuer.json",
+  "tags": ["networking", "routing", "switching", "vlan"]
+}

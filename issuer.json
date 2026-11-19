@@ -1,0 +1,9 @@
+{
+  "@context": "https://w3id.org/openbadges/v2",
+  "type": "Issuer",
+  "id": "https://director0.github.io/mdl-badges/issuer.json",
+  "name": "Академия Кофе и Кода",
+  "url": "https://director0.github.io/mdl-badges/",
+  "email": "m2611067@edu.misis.ru",
+  "description": "Личный издатель значков director0."
+}

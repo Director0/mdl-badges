@@ -1,0 +1,15 @@
+{
+  "@context": "https://w3id.org/openbadges/v2",
+  "type": "Assertion",
+  "id": "https://director0.github.io/mdl-badges/assertions/1.json",
+  "recipient": {
+    "type": "email",
+    "hashed": true,
+    "identity": "sha256$57e03a93aef053eb48b4497e4246345d5b837e2390e5ba8bb6e1640ece9c219f"
+  },
+  "badge": "https://director0.github.io/mdl-badges/badges/network-management.json",
+  "verification": {
+    "type": "hosted"
+  },
+  "issuedOn": "2026-11-20T00:00:00Z"
+}
